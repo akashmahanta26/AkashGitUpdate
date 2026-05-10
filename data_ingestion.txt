@@ -1,2 +1,2 @@
-Ingesting data
+not Ingesting data (bug is fixed)
 Master here,
